@@ -1051,6 +1051,14 @@ img {
 
 }
 
+.image2 img {
+    max-width: 20px;
+    overflow: hidden;
+    display: block;
+    height: auto;
+
+}
+
 
 .about-text {
 
